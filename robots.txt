@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chooshaich.sorcery.ai/sitemap.xml
